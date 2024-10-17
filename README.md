@@ -1,5 +1,4 @@
-![My Image](images/AboutMe.png)
-
+![AboutMe](images/AboutMe.png)
 
 ## Hi there, I'm rakaso598 👋
 
