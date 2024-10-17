@@ -1,3 +1,6 @@
+![My Image](images/AboutMe.png)
+
+
 ## Hi there, I'm rakaso598 👋
 
 I'm a junior developer passionate about learning and building cool projects.  
