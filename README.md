@@ -2,7 +2,7 @@
 
 ## Hi there, I'm **rakaso598** 👋
 
-#### I think coding is modeling the developer's values ​​into the computer world.
+### I think coding is modeling the developer's values ​​into the computer world.
 
 Just as I express my thoughts in words and my inspiration in pictures, coding is also a process of modeling the developer's values. I chose the path of a developer with the desire to convey these values ​​into the computer world. Ultimately, I am a developer who wants to create meaningful changes through technology.
 
