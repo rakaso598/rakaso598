@@ -1,12 +1,12 @@
 ![AboutMe](images/AboutMe.png)
 
-## Hi there, I'm **rakaso598** 👋  
+# Hi there, I'm rakaso598 👋
 
-### I believe coding is about modeling a developer's values in the computer world.  
+I believe coding is about **bringing a developer's values to life in the digital world**.  
+Just as words express thoughts and images convey inspiration, coding is a way to communicate and model ideas. I chose this path to share my values through technology, striving to create **meaningful change** in the digital realm.
 
-Just as I express my thoughts in words and my inspirations through images, coding is also a process of conveying a developer's values. I chose the path of a developer out of a desire to communicate these values in the digital realm. Ultimately, I aim to create meaningful changes through technology.  
-
-I am proficient in Spring Boot and Java, and I am also familiar with web standard technologies such as HTML, CSS, and JavaScript. I maximize the efficiency of my coding learning and research by utilizing conversational AI technology, which enhances the speed and accuracy of problem-solving and project development.  
+I’m proficient in **Spring Boot** and **Java**, with experience in web technologies like **HTML**, **CSS**, and **JavaScript**.  
+By leveraging **conversational AI tools**, I enhance the efficiency of my learning and problem-solving processes, improving the speed and accuracy of my development work.
 
 💻 **Currently working on:** Spring Boot Projects  
 🌱 **Currently learning:** AWS EC2, RDS, Lambda  
