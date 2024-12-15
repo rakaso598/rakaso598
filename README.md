@@ -12,6 +12,7 @@ I view coding as a way to bring a developer's values to life in the digital worl
 
 ### 🌱 **Currently learning:**
 - IaaS, SaaS (e.g., AWS, Cafe24)
+- Intermediate JavaScript
 
 ### 📝 **My Website:**
 - [rexondex's blog](https://rexondex.tistory.com)
