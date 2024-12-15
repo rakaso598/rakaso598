@@ -6,7 +6,7 @@ I view coding as a way to bring a developer's values to life in the digital worl
 With expertise in **Spring Boot**, **Java**, and web technologies like **HTML**, **CSS**, and **JavaScript**,  
 I leverage **conversational AI** to boost learning, problem-solving, and development efficiency.  
 
----
+---  
 
 ### 💻 **Currently working on:**  
 - Spring Boot Projects  
