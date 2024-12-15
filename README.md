@@ -8,13 +8,13 @@ I leverage **conversational AI** to boost learning, problem-solving, and develop
 
 ---  
 
-### ■**Currently working on:**  
+### **Currently working on:**  
 - Spring Boot Projects  
 - Node.js Projects  
 
-### ■**Currently learning:**  
+### **Currently learning:**  
 - IaaS, SaaS (e.g., AWS, Cafe24)  
 - Intermediate JavaScript  
 
-### ■**My Website:**  
+### **My Website:**  
 - [rexondex's blog](https://rexondex.tistory.com)  
