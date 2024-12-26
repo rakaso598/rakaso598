@@ -2,9 +2,8 @@
 
 # Hi there, I'm rakaso598
 
-I view coding as a way to bring a developer's values to life in the digital world.  
-With expertise in **Spring Boot**, **Java**, and web technologies like **HTML**, **CSS**, and **JavaScript**,  
-I leverage **conversational AI** to boost learning, problem-solving, and development efficiency.  
+Transforming developer values into digital reality through expertise in Spring Boot, Java, and web technologies,  
+enhancing learning, problem-solving, and efficiency with conversational AI.  
 
 ---  
 
