@@ -13,7 +13,7 @@ I leverage **conversational AI** to boost learning, problem-solving, and develop
 - Node.js Projects  
 
 ### **Currently learning:**  
-- IaaS, SaaS (e.g., AWS, Cafe24)  
+- Cloud Computing (e.g., AWS, Cafe24)  
 - Intermediate JavaScript  
 
 ### **My Website:**  
