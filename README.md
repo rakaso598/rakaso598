@@ -1,6 +1,6 @@
 ![AboutMe](images/AboutMe.png)  
 
-# Greetings, I'm rakaso598
+**Greetings, I'm rakaso598**  
 
 Transforming developer values into digital reality through expertise in Spring Boot, Java, and web technologies,  
 enhancing learning, problem-solving, and efficiency with conversational AI.  
