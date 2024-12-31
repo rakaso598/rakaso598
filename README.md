@@ -12,8 +12,8 @@ enhancing learning, problem-solving, and efficiency with conversational AI.
 - Node.js Projects  
 
 ### **Currently learning:**  
+- JavaScript ES6+  
 - Cloud Computing (e.g., AWS, Cafe24)  
-- Intermediate JavaScript  
 
 ### **My Website:**  
 - [rexondex's blog](https://rexondex.tistory.com)  
