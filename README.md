@@ -1,6 +1,6 @@
 ![AboutMe](images/AboutMe.png)  
 
-# 👋 Hi, I'm rakaso598  
+## 👋 Hi, I'm rakaso598  
 
 Bringing ideas to life with expertise in **Spring Boot**, **Java**, and **web technologies**.  
 Passionate about **learning**, **problem-solving**, and boosting **efficiency with AI**.  
