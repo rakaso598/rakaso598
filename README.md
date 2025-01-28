@@ -21,4 +21,4 @@ Passionate about **learning**, **problem-solving**, and boosting **efficiency wi
 
 ---
 ## 🌐 My Website  
-[rexondex's blog](#)  
+- [rexondex's blog](#)  
