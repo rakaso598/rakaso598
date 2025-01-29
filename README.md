@@ -6,7 +6,7 @@ Bringing ideas to life with expertise in **Spring Boot**, **Java**, and **web te
 Passionate about **learning**, **problem-solving**, and boosting **efficiency with AI**.  
 
 ---
-## 📌 **[🌟 My Timeline](https://rakaso598.github.io/)**  
+## 📌 **[My Timeline](https://rakaso598.github.io/)**  
 *(Explore my journey and projects in one place!)*  
 
 ---
