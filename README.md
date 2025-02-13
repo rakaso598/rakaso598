@@ -16,7 +16,9 @@ Passionate about **learning**, **problem-solving**, and boosting **efficiency wi
 
 ---
 ## 📘 Learning  
-- JavaScript (ES6+)  
+- JavaScript (ES6+)
+- TypeScript
+- Next.js
 - Cloud Computing (AWS, Cafe24)  
 
 ---
