@@ -17,7 +17,7 @@ Passionate about **learning**, **problem-solving**, and boosting **efficiency wi
 ---
 ## 📘 Learning  
 - TypeScript  
-- Next.js  
+- Vite, React  
 - Cloud Computing (AWS, Cafe24)  
 
 ---
