@@ -3,7 +3,7 @@
 ## 👋 Hi, I'm rakaso598  
 
 Bringing ideas to life with expertise in **Spring Boot**, **Java**, and **web technologies**.  
-Passionate about **learning**, **problem-solving**, and boosting **efficiency with AI**.  
+Passionate about learning, problem-solving, and boosting efficiency with AI. Also skilled in writing basic **SQL**.  
 
 ---
 ## 📌 **[My Timeline](https://rakaso598.github.io/)**  
@@ -16,8 +16,7 @@ Passionate about **learning**, **problem-solving**, and boosting **efficiency wi
 
 ---
 ## 📘 Learning  
-- TypeScript  
-- Vite, React  
+- TypeScript, Vite, React  
 - Cloud Computing (AWS, Cafe24)  
 
 ---
