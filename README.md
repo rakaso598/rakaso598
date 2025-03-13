@@ -1,24 +1,18 @@
 ![AboutMe](images/AboutMe.png)  
 
-## 👋 Hi, I'm rakaso598  
-
-Bringing ideas to life with expertise in **Spring Boot**, **Java**, and **web technologies**.  
-Passionate about learning, problem-solving, and boosting efficiency with AI. Also skilled in writing basic **SQL**.  
-
----
-## 📌 **[My Timeline](https://rakaso598.github.io/)**  
-*(Explore my journey and projects in one place!)*  
-
----
-## 🚀 Current Projects  
-- Spring Boot Applications  
-- Node.js Development  
+## 🧑‍💻 Proficient in
+- Spring Boot
+- Java
+- Web technologies
+- Basic SQL
 
 ---
 ## 📘 Learning  
-- TypeScript, Vite, React  
-- Cloud Computing (AWS, Cafe24)  
+- Vite, React
+- Node.js
+- AWS EC2
 
 ---
 ## 🌐 My Website  
-- [rexondex's blog](#)  
+- [rexondex's blog](https://rexondex.tistory.com/)
+- [Timeline](https://rakaso598.github.io/)  
