@@ -10,7 +10,7 @@
 ## 📘 Learning  
 - Vite, React
 - Node.js
-- AWS EC2
+- Vercel
 
 ---
 ## 🌐 My Website  
