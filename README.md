@@ -9,10 +9,10 @@
 ---
 ## 📘 Learning  
 - Vite, React
-- Node.js
+- Express
 - Vercel
 
 ---
 ## 🌐 My Website  
 - [rexondex's blog](https://rexondex.tistory.com/)
-- [Timeline](https://rakaso598.github.io/)  
+- [rakafeed](https://rakaso598.github.io/)  
