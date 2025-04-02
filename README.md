@@ -10,7 +10,8 @@
 ## 📘 Learning  
 - Vite, React
 - Express
-- Vercel
+- Prisma, PostgreSQL
+- Vercel, Netlify
 
 ---
 ## 🌐 My Website  
