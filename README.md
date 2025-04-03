@@ -8,9 +8,10 @@
 
 ---
 ## 📘 Learning  
-- Vite, React
 - Express
+- Vite, React
 - Prisma, PostgreSQL
+- Mongoose, MongoDB
 - Vercel, Netlify
 
 ---
