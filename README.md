@@ -36,7 +36,7 @@ A versatile developer with a strong foundation in Java and Spring Boot for backe
 
 ---
 
-## 🌐 My Website
+## My Website
 
 * [rexondex's blog](https://rexondex.tistory.com/)
 * [rakafeed](https://rakaso598.github.io/)
