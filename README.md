@@ -36,4 +36,4 @@ A versatile developer with a strong foundation in Java and Spring Boot for backe
 
 * [rexondex's blog](https://rexondex.tistory.com/)
 * [RakaFeed (My Interest Feed)](https://rakaso598.github.io/)
-* [My Development Portfolio](https://rakaso598.github.io/rakaso598-portfolio/)
+* [My Development Portfolio (나의 개발 포트폴리오)](https://rakaso598.github.io/portfolio/)
