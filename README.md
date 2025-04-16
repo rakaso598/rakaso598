@@ -1,7 +1,5 @@
 ![AboutMe](images/AboutMe.png)  
 
----
-
 ## rakaso598 - Full Stack Developer
 
 **Proficient:**
@@ -33,8 +31,6 @@
 **In Summary:**
 
 A versatile developer with a strong foundation in Java and Spring Boot for backend development, complemented by expertise in React and modern web technologies for the frontend. Actively expanding knowledge in the JavaScript ecosystem with Express, Vite, and ORMs like Prisma and Mongoose, along with exploring different database solutions and cloud deployment platforms. Experienced in building and deploying full-stack applications.
-
----
 
 ## My Website
 
