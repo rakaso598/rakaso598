@@ -1,38 +1,46 @@
 ![AboutMe](images/AboutMe.png)  
 
-## rakaso598 - Full Stack Developer
+## Tech Stack
 
-**Proficient:**
+Here's a breakdown of my key technical skills and areas of expertise:
 
-* **Backend:** Java, Spring Boot, Node.js, Express
-* **Frontend:** React, Web Technologies (HTML, CSS, JavaScript)
-* **Database:** SQL (PostgreSQL, OracleDB, MySQL), Basic SQL
-* **Cloud/DevOps:** Vercel
+**Backend Development:**
+* **Languages:** Java, Node.js
+* **Frameworks/Libraries:** Spring Boot, Express
+* **ORM (Object-Relational Mapping):** Spring Data JPA (with Spring Boot), Prisma (Learning), Mongoose (Learning)
+* **Microservices:** Experience with Microservices Architecture (Spring Boot)
+* **API Design:** RESTful API Development
+* **Asynchronous Programming:** Proficient in Node.js
 
-**Learning:**
+**Frontend Development:**
+* **Core Technologies:** HTML, CSS, JavaScript
+* **Framework/Library:** React
+* **Build Tool:** Vite (Learning)
+* **Component-Based Architecture:** Strong understanding and implementation in React
 
-* **Frontend Framework/Library:** Vite, React
-* **Backend Framework/ORM:** Express, Prisma, Mongoose
-* **Database:** PostgreSQL, MongoDB
-* **Deployment:** Netlify
+**Databases:**
+* **SQL Databases:** PostgreSQL, OracleDB, MySQL (Basic SQL proficiency)
+* **NoSQL Databases:** MongoDB (Learning)
+* **Database Management & Design:** Experienced in designing and managing relational databases
 
-**Key Skills & Concepts:**
+**Cloud & DevOps:**
+* **Cloud Platforms:** Vercel
+* **Deployment:** Netlify (Learning)
+* **Version Control:** Git
 
+**Key Concepts:**
 * Full-Stack Development
 * RESTful API Design & Development
-* Microservices Architecture (Spring Boot)
-* Component-Based Architecture (React)
-* Asynchronous Programming (Node.js)
-* ORM (Object-Relational Mapping) - Prisma, Mongoose, Spring Data JPA (Implicit with Spring Boot)
+* Microservices Architecture
+* Component-Based Architecture
+* Asynchronous Programming
+* Object-Relational Mapping (ORM)
 * Database Management & Design
 * Cloud Deployment & Hosting
-* Version Control (Git - Implicit)
 
-**In Summary:**
+---
 
-A versatile developer with a strong foundation in Java and Spring Boot for backend development, complemented by expertise in React and modern web technologies for the frontend. Actively expanding knowledge in the JavaScript ecosystem with Express, Vite, and ORMs like Prisma and Mongoose, along with exploring different database solutions and cloud deployment platforms. Experienced in building and deploying full-stack applications.
-
-## My Website
+**My Website**
 
 * [rexondex's blog](https://rexondex.tistory.com/)
 * [RakaFeed (My Interest Feed)](https://rakaso598.github.io/)
