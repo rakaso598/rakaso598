@@ -40,7 +40,7 @@ Here's a breakdown of my key technical skills and areas of expertise:
 
 ---
 
-**My Website**
+**My Website:**
 
 * [rexondex's blog](https://rexondex.tistory.com/)
 * [RakaFeed (My Interest Feed)](https://rakaso598.github.io/)
