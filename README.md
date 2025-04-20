@@ -60,3 +60,4 @@
 * [rexondex's blog](https://rexondex.tistory.com/)
 * [RakaFeed (개발 & 소식 피드)](https://rakaso598.github.io/)
 * [나의 개발 포트폴리오](https://rakaso598.github.io/portfolio/)
+* [팀프로젝트: 공부의 숲](https://rakaso598.github.io/portfolio/study-forest/)
