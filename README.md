@@ -66,7 +66,8 @@
   * 풀스택 개발
       * [studyforest-fs](https://github.com/rakaso598/studyforest-fs)
   * RESTful API 디자인 및 개발
-      * [spring-crud-template](https://github.com/rakaso598/spring-crud-template)
+      * [biz-shop-fe](https://github.com/rakaso598/biz-shop-fe)
+      * [biz-shop-be](https://github.com/rakaso598/biz-shop-be)
   * 마이크로서비스 아키텍처
       * [my-docker-compose](https://github.com/rakaso598/my-docker-compose)
   * 컴포넌트 기반 아키텍처
