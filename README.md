@@ -65,6 +65,7 @@
 
   * 풀스택 개발
       * [studyforest-fs](https://github.com/rakaso598/studyforest-fs)
+      * [community-adventure-demo](https://github.com/rakaso598/community-adventure-demo)
   * RESTful API 디자인 및 개발
       * [biz-shop-fe](https://github.com/rakaso598/biz-shop-fe)
       * [biz-shop-be](https://github.com/rakaso598/biz-shop-be)
