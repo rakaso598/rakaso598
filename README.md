@@ -18,7 +18,7 @@
       * [prisma-orm-basic](https://github.com/rakaso598/prisma-orm-basic)
       * [mongoose-orm-board](https://github.com/rakaso598/mongoose-orm-board)
   * **마이크로서비스:** 마이크로서비스 아키텍처 경험
-      * [userservice](https://github.com/rakaso598/userservice)
+      * [my-docker-compose](https://github.com/rakaso598/my-docker-compose)
   * **API 디자인:** RESTful API 개발
       * [crud-template](https://github.com/rakaso598/crud-template)
   * **비동기 프로그래밍:** Node.js
@@ -31,7 +31,7 @@
   * **핵심 기술:** HTML, CSS, JavaScript
       * [rakaso598.github.io](https://github.com/rakaso598/rakaso598.github.io)
   * **프레임워크/라이브러리:** React, Next.js
-      * [mac-calc](https://github.com/rakaso598/mac-calc)
+      * [pandamarket-fe](https://github.com/rakaso598/pandamarket-fe)
   * **빌드 도구:** Vite
       * [vite-movie-info](https://github.com/rakaso598/vite-movie-info)
   * **컴포넌트 기반 아키텍처:** Next.js에서의 이해 및 구현
