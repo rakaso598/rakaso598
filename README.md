@@ -89,6 +89,6 @@
   * [rexondex's blog](https://rexondex.tistory.com/)
   * [RakaFeed (개발 & 소식 피드)](https://rakaso598.github.io/)
   * [나의 개발 포트폴리오](https://rakaso598.github.io/portfolio/)
-      * [레포지토리: portfolio](https://github.com/rakaso598/portfolio)
+      * 레포지토리: [portfolio](https://github.com/rakaso598/portfolio)
   * [팀프로젝트: 공부의 숲](https://rakaso598.github.io/portfolio/study-forest/)
-      * [레포지토리: studyforest-fs](https://github.com/rakaso598/studyforest-fs)
+      * 레포지토리: [studyforest-fs](https://github.com/rakaso598/studyforest-fs)
