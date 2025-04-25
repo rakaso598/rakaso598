@@ -9,7 +9,7 @@
 **⚙️백엔드 개발**
 
   * **언어:** Java, Node.js
-      * [egovframe-template-simple-backend](https://github.com/rakaso598/egovframe-template-simple-backend)
+      * [spring-sns-board](https://github.com/rakaso598/spring-sns-board)
       * [kakao-login-api](https://github.com/rakaso598/kakao-login-api)
   * **프레임워크/라이브러리:** Spring Boot, Express
       * [egovframe-template-simple-backend](https://github.com/rakaso598/egovframe-template-simple-backend)
