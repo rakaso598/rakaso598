@@ -1,12 +1,12 @@
 ![AboutMe](images/AboutMe.png)  
 
-**📚기술 스택**
+**📚 기술 스택**
 
 다음은 저의 주요 기술 역량 및 전문 분야에 대한 요약입니다.
 
 ---
 
-**⚙️백엔드 개발**
+**⚙️ 백엔드 개발**
 
   * **언어:** Java, Node.js
       * [spring-sns-board](https://github.com/rakaso598/spring-sns-board)
@@ -26,7 +26,7 @@
 
 -----
 
-**🎨프론트엔드 개발**
+**🎨 프론트엔드 개발**
 
   * **핵심 기술:** HTML, CSS, JavaScript
       * [rakaso598.github.io](https://github.com/rakaso598/rakaso598.github.io)
@@ -39,7 +39,7 @@
 
 -----
 
-**💾데이터베이스**
+**💾 데이터베이스**
 
   * **SQL 데이터베이스:** PostgreSQL, OracleDB, MySQL (기본 SQL 숙련도)
       * [rdbms-crud-community](https://github.com/rakaso598/rdbms-crud-community)
@@ -50,7 +50,7 @@
 
 -----
 
-**☁️클라우드 & DevOps**
+**☁️ 클라우드 & DevOps**
 
   * **클라우드 플랫폼:** Vercel
       * [introduce-ra](https://github.com/rakaso598/introduce-ra)
@@ -61,7 +61,7 @@
 
 -----
 
-**🎯핵심 개념**
+**🎯 핵심 개념**
 
   * 풀스택 개발
       * [studyforest-fs](https://github.com/rakaso598/studyforest-fs)
@@ -84,7 +84,7 @@
 
 -----
 
-**🌐웹사이트**
+**🌐 웹사이트**
 
   * [rexondex's blog](https://rexondex.tistory.com/)
   * [RakaFeed (개발 & 소식 피드)](https://rakaso598.github.io/)
