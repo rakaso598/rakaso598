@@ -20,7 +20,7 @@
   * **마이크로서비스:** 마이크로서비스 아키텍처 경험
       * [my-docker-compose](https://github.com/rakaso598/my-docker-compose)
   * **API 디자인:** RESTful API 개발
-      * [crud-template](https://github.com/rakaso598/crud-template)
+      * [spring-crud-template](https://github.com/rakaso598/spring-crud-template)
   * **비동기 프로그래밍:** Node.js
       * [kakao-login-api](https://github.com/rakaso598/kakao-login-api)
 
@@ -66,7 +66,7 @@
   * 풀스택 개발
       * [studyforest-fs](https://github.com/rakaso598/studyforest-fs)
   * RESTful API 디자인 및 개발
-      * [crud-template](https://github.com/rakaso598/crud-template)
+      * [spring-crud-template](https://github.com/rakaso598/spring-crud-template)
   * 마이크로서비스 아키텍처
       * [my-docker-compose](https://github.com/rakaso598/my-docker-compose)
   * 컴포넌트 기반 아키텍처
