@@ -54,7 +54,7 @@
 
   * **클라우드 플랫폼:** Vercel
       * [introduce-ra](https://github.com/rakaso598/introduce-ra)
-  * **배포:** Netlify
+  * **배포:** GitHub Pages, Netlify
       * [rakaso598.github.io](https://github.com/rakaso598/rakaso598.github.io)
   * **버전 관리:** Git
       * [rakaso598](https://github.com/rakaso598/rakaso598)
