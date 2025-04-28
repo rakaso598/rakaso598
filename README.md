@@ -22,7 +22,7 @@
 
 ### 💾 데이터베이스
 
-* **SQL:** PostgreSQL, OracleDB, MySQL (기본 SQL 숙련) ([rdbms-crud-community](https://github.com/rakaso598/rdbms-crud-community))
+* **SQL:** PostgreSQL, OracleDB, MySQL ([rdbms-crud-community](https://github.com/rakaso598/rdbms-crud-community))
 * **NoSQL:** MongoDB ([mongoose-anonymous-board](https://github.com/rakaso598/mongoose-anonymous-board))
 * **관리 및 설계:** 관계형 데이터베이스 설계 및 관리 경험 ([rdbms-crud-community](https://github.com/rakaso598/rdbms-crud-community))
 
