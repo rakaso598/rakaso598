@@ -49,3 +49,7 @@
 * **개발 & 소식 피드:** [[RakaFeed: 개발현황 공유 게시판](https://rakaso598.github.io/)]
 * **개인 포트폴리오:** [[나의 개발 포트폴리오](https://rakaso598.github.io/portfolio/)]
 * **팀 프로젝트:** [[팀프로젝트: 공부의 숲](https://rakaso598.github.io/portfolio/study-forest/)]
+
+### 📧 Contact
+
+* **Email:** namul9416@gmail.com
