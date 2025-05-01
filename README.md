@@ -47,7 +47,7 @@
 * **마이크로서비스 아키텍처 (MSA):** [[도커 컴포즈를 직접 체험해보자](https://github.com/rakaso598/my-docker-compose)]
 * **컴포넌트 기반 아키텍처:** [[시안을 따라 프론트엔드를 구현해보자(판다마켓)](https://github.com/rakaso598/pandamarket-fe)]
 * **비동기 프로그래밍:** [[카카오 로그인 API를 사용해보자](https://github.com/rakaso598/kakao-login-api)]
-* **객체 관계 매핑 (ORM):** [[프리즈마 ORM를 익혀보자](https://github.com/rakaso598/prisma-orm-basic)]
+* **객체 관계 매핑 (ORM):** [[프리즈마 ORM를 익혀보자](https://github.com/rakaso598/prisma-orm-basic)], [[Mongoose 익명 게시판을 구현해보자](https://github.com/rakaso598/mongoose-anonymous-board)]
 * **데이터베이스 관리 및 설계:** [[ORM을 활용한 CRUD 기능을 구현해보자](https://github.com/rakaso598/rdbms-crud-community)]
 * **클라우드 배포 및 호스팅:** [[시안을 따라 프론트엔드를 구현해보자(판다마켓)](https://github.com/rakaso598/pandamarket-fe)]
 
