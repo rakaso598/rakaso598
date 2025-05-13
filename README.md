@@ -3,8 +3,6 @@
 ## ⚙️ 백엔드 개발
 
 * **언어:** Java, Node.js
-    * Spring Boot 기반 SNS 게시판 [[소셜 SNS 게시판을 만들어보자](https://github.com/rakaso598/spring-sns-board)]
-    * Kakao 로그인 API 개발 경험 [[카카오 로그인 API를 사용해보자](https://github.com/rakaso598/kakao-login-api)]
     * EgovFrame 템플릿 활용 경험 [[표준프레임워크를 실행해보자](https://github.com/rakaso598/egovframe-template-simple-backend)]
     * Express.js 기본 라우팅 이해 및 구현 [[Express Routing 기본기를 익히자](https://github.com/rakaso598/express-routing-basic)]
 * **프레임워크/라이브러리:** Spring Boot, Express
