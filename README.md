@@ -32,7 +32,7 @@
 
 ## 🎯 핵심 역량
 
-* **풀스택 개발:** [[팀프로젝트: 공부의 숲](https://github.com/rakaso598/studyforest-fs)], [[웹소켓을 활용한 2D 데모 게임](https://github.com/rakaso598/community-adventure-demo)]
+* **풀스택 개발:** [[팀프로젝트: 공부의 숲](https://github.com/rakaso598/6-studyforest-phytoncide-FS)], [[웹소켓을 활용한 2D 데모 게임](https://github.com/rakaso598/community-adventure-demo)]
 * **RESTful API 디자인 및 개발:** [[쇼핑몰 형식의 API 요청 프론트엔드](https://github.com/rakaso598/biz-shop-fe)], [[RESTful API 제공하는 쇼핑몰 형식의 Express 서버](https://github.com/rakaso598/biz-shop-be)]
 * **마이크로서비스 아키텍처 (MSA):** [[Docker Compose를 사용해보자](https://github.com/rakaso598/my-docker-compose)]
 * **컴포넌트 기반 아키텍처:** [[시안에 따라 Next.js 프론트엔드 구현해보자(판다마켓)](https://github.com/rakaso598/pandamarket-fe)]
