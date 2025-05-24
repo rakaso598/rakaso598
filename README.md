@@ -26,7 +26,7 @@
 
 * **클라우드:** Vercel [[Vercel로 첫 배포를 완료하자](https://github.com/rakaso598/introduce-ra)]
 * **배포:** GitHub Pages, Netlify [[RakaFeed: 개발현황 공유 게시판](https://github.com/rakaso598/rakaso598.github.io)]
-* **버전 관리:** Git [[github.com/rakaso598](https://github.com/rakaso598/rakaso598)]
+* **버전 관리:** Git [[github.com/rakaso598](https://github.com/rakaso598)]
 
 ## 🎯 핵심 역량
 
