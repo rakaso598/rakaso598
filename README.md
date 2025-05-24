@@ -3,7 +3,7 @@
 ## ⚙️ 백엔드 개발
 
 * **언어:** Java, Node.js [[표준프레임워크를 실행해보자](https://github.com/rakaso598/egovframe-template-simple-backend)], [[Express Routing 기본기를 익히자](https://github.com/rakaso598/express-routing-basic)]
-* **프레임워크/라이브러리:** Spring Boot, Express
+* **프레임워크/라이브러리:** Spring Boot, Next.js, React, Express
 * **ORM:** Spring Data JPA, Prisma, Mongoose [[Prisma를 익히자](https://github.com/rakaso598/prisma-orm-basic)], [[Mongoose 익명 게시판을 구현해보자](https://github.com/rakaso598/mongoose-anonymous-board)]
 * **마이크로서비스:** MSA 경험 [[Docker Compose를 사용해보자](https://github.com/rakaso598/my-docker-compose)]
 * **API 디자인:** RESTful API 개발 [[스프링부트로 직접 CRUD API를 만들어보자](https://github.com/rakaso598/spring-crud-template)]
