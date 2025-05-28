@@ -12,7 +12,7 @@
 ## 🎨 프론트엔드 개발
 
 * **핵심 기술:** HTML, CSS, JavaScript [[RakaFeed: 개발현황 공유 게시판](https://github.com/rakaso598/rakaso598.github.io)]
-* **프레임워크/라이브러리:** React, Next.js [[시안에 따라 Next.js 중고거래 플랫폼 구현하자](https://github.com/rakaso598/pandamarket-fe)], [[Next.js 블로그 프로젝트 with Google AdSense](https://github.com/rakaso598/nextjs-adsense-blog)]
+* **프레임워크/라이브러리:** React, Next.js [[시안에 따라 Next.js 중고거래 플랫폼 구현하자](https://github.com/rakaso598/pandamarket-fe)]
 * **빌드 도구:** Vite [[Vite를 활용한 영화리뷰 페이지를 만들어보자](https://github.com/rakaso598/vite-movie-info)]
 * **아키텍처:** 컴포넌트 기반 아키텍처 (Next.js) [[시안에 따라 Next.js 중고거래 플랫폼 구현하자](https://github.com/rakaso598/pandamarket-fe)]
 
@@ -31,7 +31,7 @@
 ## 🎯 핵심 역량
 
 * **풀스택 개발:** [[팀프로젝트: 공부의 숲](https://github.com/rakaso598/6-studyforest-phytoncide-FS)], [[웹소켓을 활용한 2D 데모 게임](https://github.com/rakaso598/community-adventure-demo)]
-* **RESTful API 디자인 및 개발:** [[쇼핑몰 형식의 API 요청 프론트엔드](https://github.com/rakaso598/biz-shop-fe)], [[RESTful API 제공하는 쇼핑몰 형식의 Express 서버](https://github.com/rakaso598/biz-shop-be)]
+* **RESTful API 디자인 및 개발:** [[쇼핑몰 예제 API 요청 프론트엔드](https://github.com/rakaso598/biz-shop-fe)], [[RESTful API 제공하는 쇼핑몰 예제 Express 서버](https://github.com/rakaso598/biz-shop-be)]
 * **마이크로서비스 아키텍처 (MSA):** [[Docker Compose를 체험해보자](https://github.com/rakaso598/my-docker-compose)]
 * **컴포넌트 기반 아키텍처:** [[시안에 따라 Next.js 중고거래 플랫폼 구현하자](https://github.com/rakaso598/pandamarket-fe)]
 * **비동기 프로그래밍:** [[카카오 로그인 API를 사용해보자](https://github.com/rakaso598/kakao-login-api)]
