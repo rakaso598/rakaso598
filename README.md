@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://rexondex.tistory.com" target="_blank">
-      <img width="278" height="352" alt="image" src="https://github.com/user-attachments/assets/6fedebe6-7feb-4f4f-bc41-331246391b47" />
+      <img width="246" height="313" alt="image" src="https://github.com/user-attachments/assets/eec28fdf-4070-4f10-8ddc-344ee2ac78a5" />
     </a>
 </div>
 
