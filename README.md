@@ -1,7 +1,7 @@
 <div align="center">
-    <a href="https://rexondex.tistory.com" target="_blank">
-      <img width="246" height="313" alt="image" src="https://github.com/user-attachments/assets/eec28fdf-4070-4f10-8ddc-344ee2ac78a5" />
-    </a>
+  <a href="https://github.com/rakaso598?tab=stars">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakaso598&layout=compact&theme=dark" alt="Top Languages">
+  </a>
 </div>
 
 <table align="center">
@@ -18,9 +18,3 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <a href="https://github.com/rakaso598?tab=stars">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakaso598&layout=compact&theme=dark" alt="Top Languages">
-  </a>
-</div>
