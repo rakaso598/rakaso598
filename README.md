@@ -20,5 +20,5 @@
 </table>
 
 <div align="center">
-  <img src="images/rexondex_blog.png" alt="Blog">
+  <img src="images/rexondex_blog_mini.png" alt="Blog">
 </div>
