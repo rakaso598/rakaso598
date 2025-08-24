@@ -20,5 +20,7 @@
 </table>
 
 <div align="center">
-  <img src="images/rexondex_blog_mini.png" alt="Blog">
+  <a href="https://rexondex.tistory.com" target="_blank">
+    <img src="images/rexondex_blog_mini.png" alt="Blog">
+  </a>
 </div>
