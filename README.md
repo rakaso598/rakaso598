@@ -18,3 +18,7 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="images/rexondex_blog.png" alt="Blog">
+</div>
