@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/rakaso598?tab=stars">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakaso598&layout=donut-vertical&theme=merko" alt="Top Languages">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakaso598&layout=compact&theme=transparent" alt="Top Languages">
   </a>
 </div>
 
