@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://cafe.naver.com/leetcs" target="_blank">
-    <img src="images/leetcs_github_logo.png" alt="LEETCS Logo" width="280">
+    <img src="images/leetcs_github_logo.png" alt="LEETCS Logo" width="300">
   </a>
 </div>
 
