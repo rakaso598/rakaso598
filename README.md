@@ -11,12 +11,6 @@
 </div>
 
 <div align="center">
-  <a href="https://cafe.naver.com/leetcs" target="_blank">
-    <img src="images/leetcs_github_logo.png" alt="LEETCS Logo" width="300">
-  </a>
-</div>
-
-<div align="center">
       <a href="https://www.youtube.com/@rexondex-d3x" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
       </a>
