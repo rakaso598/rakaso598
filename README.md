@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.acmicpc.net/user/395722" target="_blank">
-    <img src="images/backjoon_logo.png" alt="BACKJOON Logo" width="300">
+    <img src="images/backjoon_logo.png" alt="BACKJOON Logo" width="200">
   </a>
 </div>
 
